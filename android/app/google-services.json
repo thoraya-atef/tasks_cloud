@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989958902124",
+    "project_id": "fcm-lab-d522f",
+    "storage_bucket": "fcm-lab-d522f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989958902124:android:1d82d7a598e55ce9d4a349",
+        "android_client_info": {
+          "package_name": "com.example.cloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989958902124-bc493kllmd4uvbs21grgs60rqc4rdfvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5NUv-x4zngJuGXyqG3lRgQm35payAJLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989958902124-bc493kllmd4uvbs21grgs60rqc4rdfvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
